@@ -1,28 +1,25 @@
 <img align="right" alt="GIF"  width="353px" src="https://media2.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
 
-<h1 align="center">Hola 👋  :D , I'm Aritro Chakraborty <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="65px"></h1>
-<h3 align="center"> A passionate web developer from India.</h3><br>
+<h1 align="center">Hola 👋 , I'm Milton <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="65px"></h1>
+<h3 align="center"> Passionate Software Engineer and Multidisciplinary Developer, known as @jmrchelani everywhere.</h3><br>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/aritrochakraborty29) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=aritrochakraborty29.profileviews-badge)](https://github.com/aritrochakraborty29) [![Open Source Love](https://img.shields.io/github/followers/aritrochakraborty29?style=social)](https://github.com/aritrochakraborty29?tab=followers)[![Years Badge](https://badges.pufler.dev/years/aritrochakraborty29)](https://badges.pufler.dev/years/Kushal997-das)[![Repos Badge](https://badges.pufler.dev/repos/aritrochakraborty29)](https://badges.pufler.dev/repos/aritrochakraborty29)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Github-<3-brightgreen.svg?style=flat&logo=github)](https://github.com/jmrchelani) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=jmrchelani.profileviews-badge)](https://github.com/jmrchelani) [![Open Source Love](https://img.shields.io/github/followers/jmrchelani?style=social)](https://github.com/jmrchelani?tab=followers)[![Years Badge](https://badges.pufler.dev/years/jmrchelani)](https://badges.pufler.dev/years/jmrchelani)[![Repos Badge](https://badges.pufler.dev/repos/jmrchelani)](https://badges.pufler.dev/repos/jmrchelani)
 <br>
-- 🕵 Intern at The [Cyrrup Solutions Pvt Ltd Foundation](https://www.cyrrup.com/) **(web developer and designer)**
+<!-- - 🕵 Intern at The [Cyrrup Solutions Pvt Ltd Foundation](https://www.cyrrup.com/) **(web developer and designer)** -->
 
-- 🔭 Also I’m currently working on this project [Real-Time-Pose-Animation](https://github.com/aritrochakraborty29/Real-Time-Pose-Animation)
+- 🔭 I’m currently working on various projects! <!-- [Real-Time-Pose-Animation](https://github.com/aritrochakraborty29/Real-Time-Pose-Animation) -->
 
-- 🌱 I’m currently learning **FullStack Webdevloper🤩**
+- 🌱 I’m currently learning **App Development**.
 
-- 👯 I’m looking to collaborate on [QX Research](https://github.com/qxresearch) & [GDG-Kolkata](https://www.meetup.com/GDG-Kolkata/#)
+- 👯 I’m looking to collaborate on multiple open source projects.
 
-- 🤝 I’m looking for help with [QX Research](https://github.com/qxresearch/qxresearch-event-1)
+<!-- - 🤝 I’m looking for help with [QX Research](https://github.com/qxresearch/qxresearch-event-1) -->
 
 - 💬 Ask me about **Technical Staff and about programming languages😎**
 
-- 📫 How to reach me aritrochakraborty29@gmail.com
+- 📫 How to reach me? **@jmrchelani** everywhere!
 
-- 👨‍💻 All of my projects are available at [Portfolio]()
-
-
-- ⚡ Fun fact **Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂**
+- 👨‍💻 All of my projects are available at [Github](https://github.com/jmrchelani)
 
 <br>
 

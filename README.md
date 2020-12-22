@@ -1,4 +1,4 @@
-<img align="right" alt="GIF"  width="353px" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png" />
+<img align="right" alt="GIF"  width="100px" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png" />
 
 <h1 align="center">Hola 👋 , I'm Milton <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="65px"></h1>
 <h3 align="center"> Passionate Software Engineer and Multidisciplinary Developer, known as @jmrchelani everywhere.</h3><br>

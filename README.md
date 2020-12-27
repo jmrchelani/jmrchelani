@@ -37,6 +37,8 @@ My Certifications:
 3. [ANZ - Cyber@ANZ Program](https://www.theforage.com/virtual-internships/prototype/Hf4QMESoFeQwXPsiH/Cyber%40ANZ%20Program)
 4. [McGrathNicol - Technology Virtual Experience](https://www.theforage.com/virtual-internships/prototype/hwoGXmymuKeX9mmDh/Technology%20Virtual%20Experience)
 5. [KPMG Data Analytics Consulting Virtual Internship](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship)
+6. [Certified Microsoft Innovative Educator](https://education.microsoft.com/en-us/profile/achievement/18363847/certificate?timezoneOffset=300)
+7. [AI Foundations: Imagine Cup Junior](https://education.microsoft.com/en-us/profile/achievement/18363846/certificate?timezoneOffset=300)
 <br>
 <hr>
 

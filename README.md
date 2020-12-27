@@ -4,9 +4,9 @@
 
 <h1 align="center">Hola 👋 , I'm Milton <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="65px"></h1>
 
-[<img align="right" alt="Microsoft Engineering Badge"  width="100px" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png" />](https://www.theforage.com/badges/5D7RHhoPX3xAjHbDm/THAgsPQ38Mau5GAtH/Engineering%3A%20Undergraduate%20%26%20Masters%20Asia%20Virtual%20Experience%20Program/Milton)
-
 [<img align="right" alt="Microsoft AI Foundations: Imagine Cup Junior"  width="100px" src="https://cdn.education.microsoft.com/content/en-us/badges/bbca60ff/icon.png" />](https://education.microsoft.com/en-us/profile/achievement/18363846/certificate?timezoneOffset=300)
+
+[<img align="right" alt="Microsoft Engineering Badge"  width="100px" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png" />](https://www.theforage.com/badges/5D7RHhoPX3xAjHbDm/THAgsPQ38Mau5GAtH/Engineering%3A%20Undergraduate%20%26%20Masters%20Asia%20Virtual%20Experience%20Program/Milton)
 
 <h3 align="center"> Passionate Software Engineer and Multidisciplinary Developer, known as @jmrchelani everywhere.</h3><br>
 

@@ -48,10 +48,10 @@ My Certifications:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/></p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrchelani&layout=compact&hide=html&theme=highcontrast" alt="jmrchelani" /></p>
-<br>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrchelani&layout=compact&hide=html&theme=highcontrast" alt="jmrchelani" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmrchelani&show_icons=true&theme=radical" alt="jmrchelani" /></p>
+
+<a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jmrchelani&show_icons=true&theme=radical" alt="jmrchelani" /></a>
 
 <h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
 <br>

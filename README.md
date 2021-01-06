@@ -43,23 +43,3 @@ My Certifications:
 <hr>
 
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/></p>
-<br>
-
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jmrchelani&show_icons=true&theme=radical" alt="jmrchelani" /></p>
-
-<h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
-<br>
-
-```python3
-print('Thank You! for visiting my github profile<3.')
-```
-
-<br>
-<h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
-
-<p align="center"><a href="https://www.linkedin.com/in/milton-chelani-834a681a0/"><img align="center" src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" alt="milton's linkedin" width="32px" height="31.5px"/></a>  <a href="https://stackoverflow.com/users/14437274/milton" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" alt="milton stackoverflow" height="37" width="37" /></a><a href="https://fb.com/jmrchelani" target="blank"><img align="center" src="https://i.pinimg.com/564x/ac/57/3b/ac573b439cde3dec8ca1c6739ae7f628.jpg" alt="milton fb" height="38" width="37" /></a> <a href="https://instagram.com/jmrchelani" target="blank"><img align="center" src="https://img.favpng.com/9/25/24/computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3.jpg" alt="milton insta" height="37" width="37" /></a> <a href="https://www.hackerrank.com/jmrchelani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="" height="27" width="27" /></a> <a href="https://twitter.com/jmrchelani" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="twitter" height="30" width="30" /></a> <a href="http://jmrchelani.medium.com/" target="blank"><img align="center" src="https://www.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="https://medium.com/" height="32" width="32" /></a> <a href="https://github.com/jmrchelani" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" alt="github" height="30" width="30" /></a>  </p>
-

@@ -3,7 +3,7 @@
 [<img alt="Microsoft MTA Badge"  width="100px" src="https://images.youracclaim.com/images/d7eb73f9-946c-42c2-a971-06ac2abf46e2/MTA-Introduction_to_Programming_Using_Java.png" />](https://www.youracclaim.com/badges/cfde5297-720a-4a71-8361-1290b34c8f7c/public_url)
 [<img alt="Microsoft AI Foundations: Imagine Cup Junior"  width="100px" src="https://cdn.education.microsoft.com/content/en-us/badges/bbca60ff/icon.png" />](https://education.microsoft.com/en-us/profile/achievement/18363846/certificate?timezoneOffset=300)
 [<img alt="Microsoft Engineering Badge"  width="100px" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png" />](https://www.theforage.com/badges/5D7RHhoPX3xAjHbDm/THAgsPQ38Mau5GAtH/Engineering%3A%20Undergraduate%20%26%20Masters%20Asia%20Virtual%20Experience%20Program/Milton)
-[<img alt="HackerRank Certified" width="100px" src="https://i.imgur.com/xOBeDC3.png"/>](https://www.hackerrank.com/certificates/041b78170077)
+[<img alt="HackerRank Certified" width="75px" src="https://i.imgur.com/xOBeDC3.png"/>](https://www.hackerrank.com/certificates/041b78170077)
 
 
 <h1 align="center">Hola 👋 , I'm Milton <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="65px"></h1>

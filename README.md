@@ -39,7 +39,7 @@ My Certifications:
 6. [Certified Microsoft Innovative Educator](https://education.microsoft.com/en-us/profile/achievement/18363847/certificate?timezoneOffset=300)
 7. [AI Foundations: Imagine Cup Junior](https://education.microsoft.com/en-us/profile/achievement/18363846/certificate?timezoneOffset=300)
 -->
-<!-- <br> -->
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=jmrchelani&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>

@@ -41,6 +41,9 @@ My Certifications:
 -->
 <br>
 <hr>
-[![trophy](https://github-profile-trophy.vercel.app/?username=jmrchelani&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+<center>
+<a href="https://github.com/jmrchelani">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmrchelani&show_icons=true&theme=dark&line_height=40" alt="Milton's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrchelani&langs_count=5&theme=dark" alt="Milton's github stats"/>
+</a>
 <hr>

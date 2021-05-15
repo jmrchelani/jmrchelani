@@ -40,6 +40,6 @@ My Certifications:
 7. [AI Foundations: Imagine Cup Junior](https://education.microsoft.com/en-us/profile/achievement/18363846/certificate?timezoneOffset=300)
 -->
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=jmrchelani&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jmrchelani&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)]
 
 <hr>

@@ -46,4 +46,5 @@ My Certifications:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmrchelani&show_icons=true&theme=dark&line_height=40" alt="Milton's github stats"/>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrchelani&langs_count=5&theme=dark" alt="Milton's github stats"/>
 </a>
+ </center>
 <hr>

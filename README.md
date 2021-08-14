@@ -2,7 +2,11 @@
 [<img alt="Microsoft MTA Badge"  width="100px" src="https://images.youracclaim.com/images/d7eb73f9-946c-42c2-a971-06ac2abf46e2/MTA-Introduction_to_Programming_Using_Java.png" />](https://www.youracclaim.com/badges/cfde5297-720a-4a71-8361-1290b34c8f7c/public_url)
 [<img alt="Microsoft AI Foundations: Imagine Cup Junior"  width="100px" src="https://cdn.education.microsoft.com/content/en-us/badges/bbca60ff/icon.png" />](https://education.microsoft.com/en-us/profile/achievement/18363846/certificate?timezoneOffset=300)
 [<img alt="Microsoft Engineering Badge"  width="100px" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png" />](https://www.theforage.com/badges/5D7RHhoPX3xAjHbDm/THAgsPQ38Mau5GAtH/Engineering%3A%20Undergraduate%20%26%20Masters%20Asia%20Virtual%20Experience%20Program/Milton)
-
+[<img alt="Cloud Engineering Badge" width="100px" src="https://cdn.qwiklabs.com/YdG4ib4eNcilb2vUSYj4qIOPMzCTixyQAew7M0O9x1E%3D" />](https://google.qwiklabs.com/public_profiles/3f7ae74f-cdac-4809-875d-9713b01d22df/badges/986852)
+[<img alt="Baseline: Infrastructe Badge" width="100px" src="https://cdn.qwiklabs.com/ojJQ2zzd%2FAof9rwbMLAZm9V3IiK6WdPEJ%2F1GkOQuLPk%3D" />](https://google.qwiklabs.com/public_profiles/3f7ae74f-cdac-4809-875d-9713b01d22df/badges/986234)
+[<img alt="Google Cloud Essentials Badge" width="100px" src="https://cdn.qwiklabs.com/GHzcYBb00JYUF9Rgf3D9A4inwRHYnFtISMvcRlb%2FClU%3D" />](https://google.qwiklabs.com/public_profiles/3f7ae74f-cdac-4809-875d-9713b01d22df/badges/973635)
+[<img alt="Perform Foundational Infrastructure Tasks Badge" height="100px" src="https://cdn.qwiklabs.com/wgk4u0FK3ainv0MN7iNCAJMzISD9KUKBfwu7fSGI10I%3D" />](https://google.qwiklabs.com/public_profiles/3f7ae74f-cdac-4809-875d-9713b01d22df/badges/986334)
+[<img alt="Create and Manage Cloud Resources" height="100px" src="https://cdn.qwiklabs.com/oJ68YJxOAkrezBSWMLSdZpIYgr5Cu5mztWuM1n5in%2Fs%3D" />](https://google.qwiklabs.com/public_profiles/3f7ae74f-cdac-4809-875d-9713b01d22df/badges/973567)
 
 
 <h1 align="center">Hola 👋 , I'm Milton <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="65px"></h1>

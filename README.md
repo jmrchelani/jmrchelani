@@ -21,7 +21,6 @@
 - 📫 How to reach me? **@jmrchelani** everywhere!
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jmrchelani)
-
 <!--
 <br> -->
 <!--
@@ -37,6 +36,7 @@ My Certifications:
 -->
 <br>
 <hr>
+
 [<img alt="Certified Microsoft Innovative Educator"  width="100px" src="https://cdn.education.microsoft.com/content/en-us/badges/309c071d/309c071d-v1-128x128.png" />](https://education.microsoft.com/en-us/profile/achievement/18363847/certificate?timezoneOffset=300)
 [<img alt="Microsoft MTA Badge"  width="100px" src="https://images.youracclaim.com/images/d7eb73f9-946c-42c2-a971-06ac2abf46e2/MTA-Introduction_to_Programming_Using_Java.png" />](https://www.youracclaim.com/badges/cfde5297-720a-4a71-8361-1290b34c8f7c/public_url)
 [<img alt="Microsoft AI Foundations: Imagine Cup Junior"  width="100px" src="https://cdn.education.microsoft.com/content/en-us/badges/bbca60ff/icon.png" />](https://education.microsoft.com/en-us/profile/achievement/18363846/certificate?timezoneOffset=300)

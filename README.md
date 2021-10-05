@@ -53,3 +53,5 @@ My Certifications:
 </a>
  </center> -->
 <hr>
+
+<a href="https://jmrchelani.github.io/"><img alt="Milton's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jmrchelani&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>

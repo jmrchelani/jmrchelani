@@ -96,9 +96,15 @@ My Certifications:
 </div>
 
 <br>
-<a href="https://jmrchelani.github.io/"><img alt="Milton's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jmrchelani&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
+<!-- <a href="https://jmrchelani.github.io/"><img alt="Milton's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jmrchelani&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a> -->
+<hr>
 
-<br>
+Magic Code:
+```js
+[].forEach.call(document.querySelectorAll('*'),function(a){a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16)})
+```
+
+<!-- <br> -->
 <hr>
  
 **See Also:**

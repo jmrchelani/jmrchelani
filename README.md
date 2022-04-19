@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hola 👋 , I'm Milton <img src="https://github.com/jmrchelani/jmrchelani/blob/master/Developer.gif" width="65px"></h1>
+<h1 align="center">Hola 👋 , I'm Milton <img src="https://github.com/jmrchelani/jmrchelani/blob/main/Developer.gif" width="65px"></h1>
 
 <h3 align="center"> Passionate Software Engineer and Multidisciplinary Developer, known as @jmrchelani everywhere.</h3><br>
 
